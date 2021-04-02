@@ -1,0 +1,14 @@
+#Ignorar los modulos instalados
+*.log
+node_modules/
+build
+
+#Editores
+*.orig
+nbproject/
+tests/_output/
+.idea
+.vscode
+.phpstorm.meta.php
+_ide_helper.php
+*.sublime-workspace
